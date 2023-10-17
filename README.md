@@ -36,7 +36,3 @@ result_matrix, steps = mat_a.step_view()
 3. Make changes and open a pull request.
 
 Feel free to explore and enhance the functionality of this matrix manipulation library. Contributions are welcomed!
-
----
-
-Feel free to adjust or expand on this description based on the specific details and goals of your project. Good luck with your GitHub project!
