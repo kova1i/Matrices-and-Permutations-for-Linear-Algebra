@@ -3,7 +3,7 @@
 This Python project helps to perform various matrix operations, including matrix multiplication, inversion, and transformation to reduced row-echelon form (RREF). The code provides a set of classes and functions for working with matrices and permutations.
 
 **Key Features:**
-- **Matrix Class:** A versatile `Matrix` class is implemented, supporting basic operations such as multiplication, addition, subtraction, and exponentiation.
+- **Matrix Class:** A versatile `Matrix` class is implemented, supporting basic operations such as multiplication, addition, subtraction, and exponentiation with variables.
   
 - **Permutation Class:** The `Permutation` class is designed for handling permutation operations, calculating their sign, finding inverses, and more.
 
@@ -16,9 +16,6 @@ This Python project helps to perform various matrix operations, including matrix
 **Usage:**
 ```python
 # Example Usage
-from sympy import Symbol
-a = Symbol('a')
-b = Symbol('b')
 
 # Create a random matrix
 mat_a = make_matrix(3, 3)
