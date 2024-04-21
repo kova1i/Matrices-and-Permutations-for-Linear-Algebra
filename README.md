@@ -1,6 +1,6 @@
 **Matrix Operations with SymPy**
 
-This Python project helps to perform various matrix operations, including matrix multiplication, inversion, and transformation to reduced row-echelon form (RREF). The code provides a set of classes and functions for working with matrices and permutations.
+This Python project helps to perform various matrix operations, including matrix multiplication, inversion, and transformation to reduced row-echelon form (RREF) with *variables*. The code provides a set of classes and functions for working with matrices and permutations.
 
 **Key Features:**
 - **Matrix Class:** A versatile `Matrix` class is implemented, supporting basic operations such as multiplication, addition, subtraction, and exponentiation with *variables*.
